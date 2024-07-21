@@ -1,0 +1,1 @@
+# EduGuard-chrome-extension
